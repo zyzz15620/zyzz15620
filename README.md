@@ -8,8 +8,8 @@
 
 ### About Me
 
-- 🔭 **Currently Exploring**: API & Performance Testing to expand my skill set and push my boundaries in software quality assurance.
-- 🌱 **Projects Completed**: Ranging from manual testing to full-fledged automation solutions across web and mobile platforms.
+- 🔭 **Currently Exploring**: Automation Framework for API & Performance to expand my skill set and push my boundaries in software quality assurance.
+- 🌱 **Experienced**: Ranging from manual testing to full-fledged automation solutions across web and mobile platforms.
 - 🚀 **Developing**: Currently working on the [Luck Calendar](https://www.xemngay.online), a web application that helps users find the most auspicious dates and times for their activities, built using Java Spring Boot, Thymeleaf, and Bootstrap 4.
 - 💬 **Ask Me About**: Java, Selenium, Appium, and Automation Testing best practices.
 - 📫 **Contact Me**: duc.total650@gmail.com
@@ -35,9 +35,15 @@
 
 ### 📂 Personal Projects:
 
-- **Mobile App Automation**: Developed an automated test solution for an Android app using Appium, implementing the BDD approach to streamline testing and improve collaboration.
+- **Android BDD Automation**: Developed an automated test solution for an Android app using Appium, implementing the BDD approach to streamline testing and improve collaboration.
   
 - **Web Application**: Created a simple yet functional web application using Java Spring Boot and Bootstrap 4, gaining deeper insights into web development and its impact on automation testing.
+  
+- **IOS App Automation:** Incoming...
+
+- **demoQA using both Selenium & PlayWright:** Incoming...
+
+- **API Java AutomationFramework:** In develop...
 
 ---
 
