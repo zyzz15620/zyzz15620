@@ -10,6 +10,7 @@
 
 - 🔭 **Currently Exploring**: API & Performance Testing to expand my skill set and push my boundaries in software quality assurance.
 - 🌱 **Projects Completed**: Ranging from manual testing to full-fledged automation solutions across web and mobile platforms.
+- 🚀 **Developing**: Currently working on the [Luck Calendar](https://www.xemngay.online), a web application that helps users find the most auspicious dates and times for their activities, built using Java Spring Boot, Thymeleaf, and Bootstrap 4.
 - 💬 **Ask Me About**: Java, Selenium, Appium, and Automation Testing best practices.
 - 📫 **Contact Me**: duc.total650@gmail.com
 
