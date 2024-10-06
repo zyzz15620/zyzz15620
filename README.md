@@ -1,7 +1,7 @@
 <div align="center"> 
-  <h2 ><b> Hi 👋, I'm Phạm Anh Đức (aka Total650) </b> </h2>
+  <h2 ><b> Hi 👋, I'm Phạm Anh Đức </b> </h2>
   <img align="center" src="./nurture10-animation.gif" alt="Automation Testing" style="height: 250px; width: 400px"/><br/>
-  <p>An Automation Tester passionate about Software Quality and Continuous Improvement</p>
+  <p>An Software Engineer passionate about Software Quality and Continuous Improvement</p>
 </div>
 
 ---
@@ -11,7 +11,7 @@
 - 🔭 **Currently Exploring**: Automation Framework for API & Performance to expand my skill set and push my boundaries in software quality assurance.
 - 🌱 **Experienced**: Ranging from manual testing to full-fledged automation solutions across web and mobile platforms.
 - 🚀 **Developing**: Currently working on the [Luck Calendar](https://www.xemngay.online), a web application that helps users find the most auspicious dates and times for their activities, built using Java Spring Boot, Thymeleaf, and Bootstrap 4.
-- 💬 **Ask Me About**: Java, Selenium, Appium, and Automation Testing best practices.
+- 💬 **Ask Me About**: Java, Selenium, Appium, and Automation Testing and API testing best practices.
 - 📫 **Contact Me**: duc.total650@gmail.com
 
 ---
@@ -34,6 +34,8 @@
 ---
 
 ### 📂 Personal Projects:
+
+- **WireMock Stub Json Generator**: Developed a web-based tool to simplify the creation of WireMock stubs for mock API testing, significantly reducing manual effort, try out [here](https://wiremock-json-generator.onrender.com/)
 
 - **Android BDD Automation**: Developed an automated test solution for an Android app using Appium, implementing the BDD approach to streamline testing and improve collaboration.
   
