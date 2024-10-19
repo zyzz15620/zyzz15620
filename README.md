@@ -1,7 +1,7 @@
 <div align="center"> 
   <h2 ><b> Hi 👋, I'm Phạm Anh Đức </b> </h2>
-  <img align="center" src="./nurture10-animation.gif" alt="Automation Testing" style="height: 250px; width: 400px"/><br/>
-  <p>An Software Engineer passionate about Software Quality and Continuous Improvement</p>
+  <img align="center" src="./developer-tester.gif" alt="Automation Testing" style="height: 250px; width: 400px"/><br/>
+  <p>An Software Engineer passionate about Software Quality</p>
 </div>
 
 ---
