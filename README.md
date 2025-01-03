@@ -43,7 +43,7 @@
   
 - **IOS App Automation:** Incoming...
 
-- **Auto Testing Hub** [Indeveloping...)[https://autotestinghub.org/]
+- **Auto Testing Hub** [Indeveloping...](https://autotestinghub.org/)
 
 - **API Java AutomationFramework:** [SpringBlog indeveloping... ](https://github.com/zyzz15620/spring-blog-api-test) 
 - **Moonbix Bot**: Developed an automation bot to play a game, handle captcha alerts, and claim daily rewards automatically based on the game’s
