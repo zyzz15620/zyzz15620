@@ -10,7 +10,7 @@
 
 - 🔭 **Currently Exploring**: Automation Framework for API & Performance to expand my skill set and push my boundaries in software quality assurance.
 - 🌱 **Experienced**: Ranging from manual testing to full-fledged automation solutions across web and mobile platforms.
-- 🚀 **Developing**: Currently working on the [Luck Calendar](https://www.xemngay.online), a web application that helps users find the most auspicious dates and times for their activities.
+- 🚀 **Developing**: Currently working on the [Luck Calendar](https://www.xemngay.online) [AutoTesting Hub](https://autotestinghub.org/), a web application that helps users find the most auspicious dates and times for their activities.
 - 💬 **Ask Me About**: Java, Selenium, Appium, and Automation Testing and API testing best practices.
 - 📫 **Contact Me**: duc.total650@gmail.com
 
@@ -33,7 +33,7 @@
 
 ---
 
-### 📂 Personal Projects:
+### 📂 Fav Personal Projects:
 
 - **WireMock Stub Json Generator**: Developed a web-based tool to simplify the creation of WireMock stubs for mock API testing, significantly reducing manual effort, try out [here](https://wiremock-json-generator.onrender.com/)
 
@@ -43,9 +43,9 @@
   
 - **IOS App Automation:** Incoming...
 
-- **demoQA using both Selenium & PlayWright:** Incoming...
+- **Auto Testing Hub** [Indeveloping...)[https://autotestinghub.org/]
 
-- **API Java AutomationFramework:** In develop...
+- **API Java AutomationFramework:** [SpringBlog indeveloping... ](https://github.com/zyzz15620/spring-blog-api-test) 
 - **Moonbix Bot**: Developed an automation bot to play a game, handle captcha alerts, and claim daily rewards automatically based on the game’s
 state [Demo video](https://www.youtube.com/watch?v=do3YYNUA8gI)
 
