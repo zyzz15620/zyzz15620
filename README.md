@@ -8,9 +8,9 @@
 
 ### About Me
 
-- 🔭 **Currently Exploring**: Automation Framework for API & Performance to expand my skill set and push my boundaries in software quality assurance.
+- 🔭 **Currently Exploring**: DSA to expand my skill set and push my boundaries in software quality assurance.
 - 🌱 **Experienced**: Ranging from manual testing to full-fledged automation solutions across web and mobile platforms.
-- 🚀 **Developing**: Currently working on the [Luck Calendar](https://www.xemngay.online) [AutoTesting Hub](https://autotestinghub.org/), a web application that helps users find the most auspicious dates and times for their activities.
+- 🚀 **Developing**: Currently working on [**Auto Testing Hub**](https://github.com/zyzz15620/springboot-hub?tab=readme-ov-file)
 - 💬 **Ask Me About**: Java, Selenium, Appium, and Automation Testing and API testing best practices.
 - 📫 **Contact Me**: duc.total650@gmail.com
 
